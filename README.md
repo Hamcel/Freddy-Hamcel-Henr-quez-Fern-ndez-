@@ -1,5 +1,5 @@
 👋 ¡Hola! Soy Freddy Hamcel Henríquez Fernández
-💻 Web Designer Semi Senior | UX/UI | Frontend Enthusiast
+💻 Web Designer Junior | UX/UI | Frontend Enthusiast
 
 Soy un diseñador web apasionado por crear interfaces intuitivas y atractivas. Trabajo con Figma, Adobe XD, HTML, CSS y JavaScript, enfocándome en la experiencia del usuario y el diseño responsivo.
 
